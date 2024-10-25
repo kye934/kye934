@@ -2,7 +2,7 @@
 - 👀 I’m interested in BCI/ Neuroscience, VR/ AR and Ai/ Computer Vision 
 - 🌱 I’m currently learning Mechatronics Systems Engineering at SFU
 - 🌳 and Neuroscience/ Programming online with MIT, Harvard, and GreaterLearning
-- 💞️ I’m looking to collaborate on projects that I am working on
+- 💞️ I’m looking to collaborate on projects that I am working on :
 1. Computer Vision
 2. Auto Video Labeler / Auto Manual Maker
 3. Video to VR
