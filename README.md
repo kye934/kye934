@@ -11,7 +11,7 @@
   [LinkedIn](https://www.linkedin.com/in/kye-hall/)
  /  [Youtube](https://www.youtube.com/channel/UCtVoINnyt3jp80Ml5n9AyCQ)
 - 😄 Pronouns: Him
-- ⚡ Fun fact: I want to make a time machine!
+- ⚡ Fun fact: I will to make a time machine!
 
 <!---
 kye934/kye934 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
